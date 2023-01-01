@@ -1,0 +1,23 @@
+{
+  "name": "server-practice",
+  "version": "1.0.0",
+  "description": "Server vercel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codebreaker-02/Server-Practice.git"
+  },
+  "author": "Nitin Bhatt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codebreaker-02/Server-Practice/issues"
+  },
+  "homepage": "https://github.com/codebreaker-02/Server-Practice#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2"
+  }
+}
